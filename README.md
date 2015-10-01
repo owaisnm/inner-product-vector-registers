@@ -1,1 +1,2 @@
+# inner product vector registers
 The objective of this  project is to compute the dot product of an array using two different methods, and then compare the performance of the methods to each other. The first method is the general, naïve implementation of computing the dot product, and the second method utilizing is utilizing SSE vector instructions. Analyzing the run-times of both methods will allow us to see just how much more efficient and effective vector instructions can be, when compared with the alternate, general way of performing operations on data.
